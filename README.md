@@ -4,6 +4,6 @@
 - offered by Helinski University
 
 - 💞️ I’m looking to collaborate on any web development websites or appliations
-- 📫 How to reach me, feel free to send me an email.
+- 📫 How to reach me, feel free to send me an email. With this username @gmail.com
 
 
