@@ -3,5 +3,13 @@
 - 🌱 I’m currently learning Javascript, React with Hooks, Node with Express, and HTML with CSS. Currently doing the Fullstack open 2021 course offered by Helinski University
 - 💞️ I’m looking to collaborate on any web development websites or applications
 - 📫 How to reach me, feel free to send me an email. With this emmanuelha97@gmail.com
-- https://emmanuel-hernandez.netlify.app
-- this is my website. it is a work in progress 
+- Live Projects:
+-Wordle Clone
+  -https://htmlpreview.github.io/?https://github.com/emmanuelha97/Wordle/blob/main/index.html
+-Calculator
+  -https://htmlpreview.github.io/?https://github.com/emmanuelha97/JavaScript/blob/main/Calculator/index.html
+-Library
+  -https://htmlpreview.github.io/?https://github.com/emmanuelha97/JavaScript/blob/main/Library/LibraryClass/index.html
+-Etch-a-Sketch
+  -https://htmlpreview.github.io/?https://github.com/emmanuelha97/JavaScript/blob/main/Etch-a-Sketch/index.html
+
