@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a web developer/ Fullstack Developer
 - 🌱 I’m currently learning Javascript, React with Hooks, Node with Express, and HTML with CSS. Currently doing the Fullstack open 2021 course offered by Helinski University
 - 💞️ I’m looking to collaborate on any web development websites or applications
-- 📫 How to reach me, feel free to send me an email. With this emmanuelha97@gmail.com
+- 📫 How to reach me, feel free to send me an email. With this haemmanuel97@gmail.com
 - Live Projects:
 -Wordle Clone
   -https://htmlpreview.github.io/?https://github.com/emmanuelha97/Wordle/blob/main/index.html
